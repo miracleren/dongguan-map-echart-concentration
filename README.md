@@ -6,6 +6,7 @@
 引用echart及百度地图api，目前只支持在线状态生成热力图。
 
 ## 数据结构 
+数据
 主体浓度分布数据结构如下：
 ```javascript
 var dataday =[
